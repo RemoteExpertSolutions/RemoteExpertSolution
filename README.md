@@ -1,6 +1,6 @@
 ![logo](https://github.com/RemoteExpertSolutions/RemoteExpertSolutions/blob/main/8976184.jpg?raw=true)
 <h1 align="center">Remote Expert Solutions</h1>
-<h3 align="center">Your one-stop destination for IT Services</h3>
+<h3 align="center">Your One-stop destination for IT Services</h3>
 
 <img align="right" alt="Remote Expert Solutions" width="250" src="https://remotexpertsolutions.com/wp-content/uploads/2024/07/RES-png-e1720023010838.webp">
 
