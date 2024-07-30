@@ -2,6 +2,8 @@
 <h1 align="center">Remote Expert Solutions</h1>
 <h3 align="center">Your one-stop destination for IT Services</h3>
 
+<img align="right" alt="Remote Expert Solutions" width="250" src="https://remotexpertsolutions.com/wp-content/uploads/2024/07/RES-png-e1720023010838.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remoteexpertsolutions&label=Profile%20views&color=0e75b6&style=flat" alt="remoteexpertsolutions" /> </p>
 
 - 🔭 We are currently working on [Ai Automation for Guide.live](https://theguide.live/)
