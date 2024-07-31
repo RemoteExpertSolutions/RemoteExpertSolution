@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of our projects are available at [https://github.com/RemoteExpertSolutions](https://github.com/RemoteExpertSolutions)
 
-- 🔭 We are currently working on **https://github.com/RemoteExpertSolutions/Case-Studies/blob/main/Web%20Development_%20Creative%20Solutions.pdf**
+- 🔭 Our Social Media Marketing Projects **https://github.com/RemoteExpertSolutions/Social-media-marketing**
 
 - 📫 How to reach us Company **support@remotexpertsolutions.com**
 
