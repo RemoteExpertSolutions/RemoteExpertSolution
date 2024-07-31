@@ -8,7 +8,7 @@
 
 - 🔭 Our Web Development Projects **https://github.com/RemoteExpertSolutions/Web-Development**
 
-- 🔭 Our Social Media Management Projects **https://github.com/RemoteExpertSolutions/Testimonials**
+- 🔭 <b>Our Social Media Management Projects</b> **https://github.com/RemoteExpertSolutions/Testimonials**
 
 - 🔭 Our Graphic Designing Projects **https://github.com/RemoteExpertSolutions/Graphic-Design**
 
