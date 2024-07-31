@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remoteexpertsolutions&label=Profile%20views&color=0e75b6&style=flat" alt="remoteexpertsolutions" /> </p>
 
-- 🔭 <b>One of our finest Web Development Project</b> **https://theguide.live/**
+- 🔭 <b><i>One of our finest Web Development Project</b></i> **https://theguide.live/**
 
-- 🔭 <b>Our Social Media Management Projects</b> **https://github.com/RemoteExpertSolutions/Testimonials**
+- 💻 <b><i>Our Social Media Management Projects</b></i> **https://github.com/RemoteExpertSolutions/Testimonials**
 
-- 🔭 <b>Our Graphic Designing Projects</b> **https://github.com/RemoteExpertSolutions/Graphic-Design**
+- 📽 <b><i>Our Graphic Designing Projects</b></i> **https://github.com/RemoteExpertSolutions/Graphic-Design**
 
-- 🔭 <b>AI ChatBot with Google Map's API Integration Project</b> **https://www.loom.com/share/b45e794051184893baab4245b760b0d4?sid=e81f372c-3f3d-44c5-9675-abe2bc923f1e**
+- 👾 <b><i>AI ChatBot with Google Map's API Integration Project</b></i> **https://www.loom.com/share/b45e794051184893baab4245b760b0d4?sid=e81f372c-3f3d-44c5-9675-abe2bc923f1e**
 
-- 🔭 <b>Our Social Media Marketing Case studies</b> **https://github.com/RemoteExpertSolutions/Social-media-marketing**
+- 📈 <b><i>Our Social Media Marketing Case studies</b></i> **https://github.com/RemoteExpertSolutions/Social-media-marketing**
 
 - 📫 <b><i>How to reach RES</b></i> **support@remotexpertsolutions.com**
 
-- 📄 <b>Visit Our Website</b> [https://remotexpertsolutions.com/](https://remotexpertsolutions.com/)
+- 📄 <b><i>Visit Our Website</b></i> [https://remotexpertsolutions.com/](https://remotexpertsolutions.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
