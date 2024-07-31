@@ -16,8 +16,6 @@
 
 - 🔭 <b>Our Social Media Marketing Case studies</b> **https://github.com/RemoteExpertSolutions/Social-media-marketing**
 
-- 
-
 - 📫 <b><i>How to reach RES</b></i> **support@remotexpertsolutions.com**
 
 - 📄 <b>Visit Our Website</b> [https://remotexpertsolutions.com/](https://remotexpertsolutions.com/)
