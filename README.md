@@ -10,7 +10,7 @@
 
 - 🔭 Our Social Media Management Projects **https://github.com/RemoteExpertSolutions/Testimonials**
 
-- 🔭 We are currently working on [Ai ChatBot using Google Map's API](https://www.loom.com/share/b45e794051184893baab4245b760b0d4?sid=e81f372c-3f3d-44c5-9675-abe2bc923f1e)
+- 🔭 Our Graphic Designing Projects **https://github.com/RemoteExpertSolutions/Graphic-Design**
 
 - 🔭 We are currently working on [Creative Solutions](https://creativesolutionsusainc.com/)
 
